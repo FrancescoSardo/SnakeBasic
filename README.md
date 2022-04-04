@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-[link sito](https://FrancescoSardo.github.io/BasicSnake/)
+[link sito](https://francescosardo.github.io/SnakeBasic/)
 
 ### `npm start`
 
