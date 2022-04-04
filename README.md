@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+[link sito](https://FrancescoSardo.github.io/BasicSnake)
+
 ### `npm start`
 
 Runs the app in the development mode.\
